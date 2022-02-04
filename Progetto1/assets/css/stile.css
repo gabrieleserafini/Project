@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.5em;
+    font-style: normal;
+    color: rgba(0, 0, 0, 0.603);
+    line-height: 1.4;
+    margin: 0px;
+    text-align: center;
+    padding: 10px;
+}
+h1, h2{
+    font-family:'Montserrat', sans-serif;
+    color:#25a2c3;
+    padding-top: 2em;
+}
+h1{
+    font-size: 4em;
+}
+header{
+    background-color: black;
+}
+header div{
+    padding-top: 3em;
+    padding-bottom: 5em;
+    margin: 0%;
+}
+section:first-child{
+    margin-top: 0%;
+    padding-top: 5em;
+    padding-bottom: 20em;
+    background-image:url(../images/banner.jpg);
+    background-size: cover;
+}
+.bottone{
+    padding: 20px 80px 20px;
+    background-color: #e22d0e;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none ;
+    font-weight: bold;
+    border-radius: 0.5em;
+}
+section p{
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+.imgarrotondata{
+    border-radius: 100%;
+}
+#rosso{
+    padding-top: 4em;
+    padding-bottom: 3.5em;
+    background-color: #e22d0e;
+    color: rgba(255, 255, 255, 0.842);
+    font-size: smaller;
+    margin-right: 155px;
+    margin-left: 155px;
+}
+section#rosso h2{
+    color: white;
+    padding-bottom: 1.5em;
+}
+blockquote{
+    padding-top: 1.5em;
+    padding-bottom: 3.5em;
+    font-style: oblique;
+}
+div{
+    border-left: 1px solid grey ;
+    border-right: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin-right: 155px;
+    margin-left: 155px;
+    margin-bottom: 5em;
+}
+
+footer{
+    color: rgba(255, 255, 255, 0.897);
+    background-color: #25a2c3 ;
+    padding: 3em 10em 3em;
+    margin-right: 155px;
+    margin-left: 155px;
+}
+footer h2{
+    color: rgba(255, 255, 255, 0.897);
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+footer p{
+    padding-top: 3em;
+    padding-bottom: 5em;
+}
+footer a{
+    color: rgba(255, 255, 255, 0.897);
+    text-decoration: none ;
+}
+.bordosup{
+    border-top: 1px solid rgba(255, 255, 255, 0.897);
+}
+
+.icon:before {font-family: FontAwesome;
+    color: #e22d0e;
+    font-style: normal;
+}
