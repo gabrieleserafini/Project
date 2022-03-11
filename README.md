@@ -7,3 +7,6 @@
     School Project #4 
 - Epicode week 5
     School Project #5
+- Epicode week 7
+    School Project #7
+ 
